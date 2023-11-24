@@ -1,0 +1,271 @@
+/*---------------------------------------------Code for CSS----------------------------*/
+header
+{
+    text-align: left;
+    display: flex;
+    position: sticky;
+}
+#header1
+{
+    margin-left: 20px;
+}
+
+footer
+{
+height: 150px;
+border: 1px solid black;
+}
+#container1
+{
+    height: 100px;
+    width:500px;
+}
+#img1
+{
+    height: 70px;
+    width: 70px;
+    margin-left: 507px;
+    margin-top: -100px;
+}
+#box1
+{
+    margin-left: 150px;
+    font-family: sans-serif;
+    font-size: 19px;
+    line-height: 30px;
+}
+nav{
+    display: flex;
+    letter-spacing: 5px;
+    margin-top: 80px;
+    margin-left: -100px;
+    
+}
+nav a{
+    font-size: 25px;
+    text-decoration: none;
+}
+#searchbox
+{
+    margin-left: 800px;
+    margin-top: 30px;
+}
+#box2
+{
+    margin-left: 150px;
+    margin-top: 60px;
+    font-family: sans-serif;
+    font-size: 19px;
+    line-height: 30px;
+}
+#container5
+{
+    margin-top:20px;
+    height: 300px;
+    width:450px;
+}
+#img2
+{
+    height: 70px;
+    width: 70px;
+    margin-left: 456px;
+    margin-top: -295px;
+}
+#container6
+{
+    margin-top: 145px;
+    height: 300px;
+    width:450px;
+}
+#box3
+{
+    margin-left: 150px;
+    margin-top: 60px;
+    font-family: sans-serif;
+    font-size: 19px;
+    line-height: 30px;
+}
+#container3
+{
+    height: 300px;
+    width:450px;
+}
+#img3
+{
+    height: 70px;
+    width: 70px;
+    margin-left: 463px;
+    margin-top: -294px;
+}
+#container1
+{
+    margin-top: 15px;
+}
+#container2
+{
+    margin-top: 10px;
+}
+#container4
+{
+    margin-top: 712px;
+}
+#box4
+{
+    margin-left: 200px;
+    font-family: sans-serif;
+    font-size: 19px;
+    line-height: 30px;   
+}
+#box5
+{
+    margin-top: 140px;
+    margin-left: 200px;
+    font-family: sans-serif;
+    font-size: 19px;
+    line-height: 30px;
+}
+#box6
+{
+    margin-top: 130px;
+    margin-left: 200px;
+    font-family: sans-serif;
+    font-size: 19px;
+    line-height: 30px;
+}
+#container8
+{
+    margin-top: 10px;
+}
+#container11
+{
+    margin-top: -5px;
+    width: 600px;
+height: 200px;
+
+}
+#container10
+{
+    margin-top: 10px;
+}
+#container12
+{
+    margin-top: -90px;
+}
+#container16
+{
+    margin-top: 70px;
+}
+#container17
+{
+    margin-top: -88px;
+    margin-left: 100px;
+}
+#container18
+{
+    margin-top: -48px;
+    margin-left: 110px;
+}
+#container19
+{
+    margin-top: 10px;
+margin-left: 01px;
+}
+#container7
+{
+width: 600px;
+height: 200px;
+}
+#img4
+{
+    margin-top: -200px;
+
+    margin-left: 620px;
+}
+#container9
+{
+    width: 600px;
+height: 200px;
+}
+#img5
+{
+    margin-top:-203px;
+    margin-left:612px;
+}
+#img6
+{
+    margin-top: -194px;
+    margin-left: 605px;
+}
+footer
+{
+    column-count: 3;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: #000000;
+    font-family:roboto;
+}
+footer a
+{
+text-decoration: none;
+color: white;
+}
+#container13
+{
+    margin-top: -50px;
+}
+#container15
+{
+    margin-top: 120px;
+}
+input[type="submit"]
+{
+height: 30px;
+font-size: 18px;
+width: 80px;
+}
+#container22
+{
+    margin-top:-78px;
+    margin-left: 73px;
+}
+#container23
+{
+    margin-top: -19px;
+    margin-left: 100px;
+}
+#container24
+{
+ margin-top: -78px;   
+ margin-left: 70px;
+}
+#container25
+{
+ margin-top: -20px;   
+ margin-left: 100px;
+}
+#container26
+{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+#container27
+{
+    margin-top: 599px;
+    margin-left: 1px;
+}
+#container28
+{
+    margin-top: 100px;
+}
+#container29
+{
+    margin-top: 100px;
+}
+#container30
+{
+    margin-top: 100px;
+}
+#container31
+{
+    margin-top: 100px;
+}
